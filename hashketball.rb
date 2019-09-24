@@ -1,8 +1,8 @@
 # Write your code here
 
-def game_hash {
+def game_hash 
   
-}
+end
   
 
 
