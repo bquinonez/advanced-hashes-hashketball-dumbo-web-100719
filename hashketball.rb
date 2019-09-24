@@ -1,13 +1,9 @@
 # Write your code here
 
-def game_hash 
-  hash = {
-    :home => 
-    
-      
-    
-  }
-
+def game_hash {
+  
+}
+  
 end
 
 
